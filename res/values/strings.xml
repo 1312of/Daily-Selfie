@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DailySelfie</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="action_camera">Camera</string>
+    
+    <string name="notification_title">@string/app_name</string>
+    <string name="notification_sub_title">Time for another selfie</string>
+</resources>
